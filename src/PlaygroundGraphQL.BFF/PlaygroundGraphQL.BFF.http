@@ -1,0 +1,6 @@
+@PlaygroundGraphQL.BFF_HostAddress = http://localhost:5285
+
+GET {{PlaygroundGraphQL.BFF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
